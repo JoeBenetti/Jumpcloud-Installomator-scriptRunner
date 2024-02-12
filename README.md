@@ -1,4 +1,5 @@
 Jumpcloud-installomator-scriptRunner
+
 Overview
 The Jumpcloud-installomator-scriptRunner is a script designed to automate the installation of various applications on macOS devices using the Installomator script. This tool is particularly useful for system administrators and IT professionals who manage macOS devices through JumpCloud.
 
