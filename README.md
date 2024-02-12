@@ -16,7 +16,8 @@ First, download the Installomator script from its official GitHub repository:
 bash
 Copy code
 git clone https://github.com/Installomator/Installomator.git
-Visit Installomator GitHub page for more details: https://github.com/Installomator/Installomator
+
+Visit Installomator GitHub page for more details
 
 Step 2: Modify Installomator Script
 After downloading, you need to modify the Installomator script:
